@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjav_Bhisara-0077B5?style=for-the-badge)](https://www.linkedin.com/in/arjav-bhisara)
 
 </div>
----
+--------
 
 About me
 --------
