@@ -77,8 +77,23 @@ How I work
 
 Showcase
 --------
-![Arjav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arjav-07&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjav-07&layout=compact&theme=tokyonight)
+<div align="center">
+
+<table>
+<tr>
+
+<td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arjav-07&show_icons=true&theme=tokyonight&count_private=true"/>
+</td>
+
+<td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjav-07&layout=compact&theme=tokyonight"/>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 Get in touch
 ------------
