@@ -1,12 +1,19 @@
 
+<div align="center">
+
 # Hi, I'm Arjav 👋
-Full‑Stack Flutter Developer • Mobile & Web • Backend-aware
 
-[![Website](https://img.shields.io/badge/portfolio-visit-blue?style=for-the-badge)](https://arjavbhisara.framer.website)
+### Software Engineer • Flutter Developer • Full-Stack Mobile Engineer
 
-[![Email](https://img.shields.io/badge/email-arjavbhisara%40gmail.com-blueviolet?style=for-the-badge)](mailto:arjavbhisara@gmail.com)
+#### Building premium, scalable, and high-performance digital products from concept to launch.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge)](https://arjavbhisara.framer.website)
 
+[![Email](https://img.shields.io/badge/Email-arjavbhisara07@gmail.com-blue?style=for-the-badge)](mailto:arjavbhisara07@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjav_Bhisara-0077B5?style=for-the-badge)](https://www.linkedin.com/in/arjav-bhisara)
+
+</div>
 ---
 
 About me
