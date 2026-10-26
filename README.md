@@ -24,7 +24,7 @@
 
 **Fullstack Flutter Developer · Mobile Engineer · AI Integrator**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-arjavbhisara.framer.website?style=for-the-badge&logo=vercel&logoColor=white)](https://arjavbhisara.framer.website)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-arjavbhisara.framer.website-555555?style=for-the-badge&logo=vercel&logoColor=white)](https://arjavbhisara.framer.website)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-arjav--bhisara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjav-bhisara)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-arjav__bhisara-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arjav_bhisara)
 [![GitHub](https://img.shields.io/badge/GITHUB-Arjav--07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjav-07)
