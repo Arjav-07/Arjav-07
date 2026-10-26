@@ -32,6 +32,6 @@
 
 <div align="center">
 
-`arjav@github ~ $ echo "Building. Learning. Shipping."`
+` ~ $ echo "Building. Learning. Shipping."`
 
 </div>
