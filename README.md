@@ -1,20 +1,5 @@
 ﻿ <div align="center">
 
-# `arjav@github ~ $ ./profile.sh`
-
-**Flutter Developer · AI Builder · Mobile App Engineer**
-
-Building high-performance, beautifully animated mobile experiences.
-
-[Portfolio](https://arjavbhisara.framer.website) ·
-[LinkedIn](https://www.linkedin.com/in/arjav-bhisara) ·
-[Email](mailto:arjavbhisara07@gmail.com) ·
-[GitHub](https://github.com/Arjav-07)
-
-</div>
-
----
-
 ## `arjav@github ~ $ ./contributions.sh`
 
 <div align="center">
