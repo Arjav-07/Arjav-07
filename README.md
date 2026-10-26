@@ -31,25 +31,6 @@
 
 </div>
 
-<br>
-
-**About Me**
-I am a Full-stack Flutter Developer building high-performance, cross-platform applications under NothingTech. I specialize in crafting polished, modular architectures with a strong focus on custom UI/UX design systems (including Neo-Brutalism and glassmorphism) and seamless backend integrations.
-
-**Core Stack & Architecture**
-* **Frontend:** Flutter, Dart, Riverpod, BLoC, Provider, GetX
-* **Backend:** Firebase (Auth, Firestore, Storage, Hosting), Supabase, PostgreSQL
-* **Local Persistence:** Isar, SQLite, Moor, SharedPreferences
-* **AI Integration:** Google Gemini API (1.5/2.5 Flash), Local LLM on-device inference
-* **Tools:** macOS (Apple Silicon), VS Code, Android Studio, Xcode, Docker
-
-**Featured Projects**
-* **Aeuro Chat:** A 100% offline, on-device local AI chat application built with Flutter and Isar, fetching models directly via Hugging Face without cloud backend dependencies.
-* **neuroforge_workflow:** A comprehensive enterprise task management application built with Flutter Web and Firebase, featuring dual workspaces to separate personal tasks from company operations using invite codes and role assignments.
-* **Grade Learn:** A cross-platform EdTech mobile application integrating academic progress tracking, skill upgrade programs, and a Gemini AI-powered career mentor.
-
-<br>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+NothingTech+workspace...;Compiling+Flutter+modules...;Deploying+on-device+AI+models...;System+Ready." alt="Typing SVG" />
 </div>
