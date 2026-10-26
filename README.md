@@ -32,10 +32,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+NothingTech+workspace...;Compiling+Flutter+modules...;Deploying+on-device+AI+models...;System+Ready." alt="Typing SVG" />
-</div>
-
-<div align="center">
 
 `arjav@github ~ $ echo "Building. Learning. Shipping."`
 
